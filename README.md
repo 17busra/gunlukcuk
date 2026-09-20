@@ -1,34 +1,28 @@
-# 📓 Günlükcük (Dear Diary) - Dijital Günlük Web Arayüzü
+# 📓 Günlükcük - Dijital Günlük Web Sitesi
 
-Bu proje, web mimarisinin temel yapı taşı olan HTML5 standartlarıyla, hiçbir CSS veya JavaScript kullanılmadan sıfırdan geliştirilmiş çok sayfalı bir dijital günlük uygulaması iskeletidir. 
-
-Sistem; görsel makyajlara odaklanmak yerine sürdürülebilir, güvenli ve kullanıcı odaklı bir arayüzün (UI) yapısal mühendisliğini en saf haliyle sunmayı amaçlamaktadır.
+Bu proje, sadece HTML5 kullanılarak (CSS ve JavaScript olmadan) sıfırdan kodlanmış çok sayfalı bir dijital günlük arayüzüdür. Amacım bir web sayfasının temel iskeletini, formlarını ve tablo yapılarını uygulamalı olarak öğrenmekti.
 
 ## 🚀 Canlı Önizleme
-Projenin çalışan haline buradan ulaşabilirsiniz: [Günlükcük Canlı Önizleme](https://CANLI_LINK_BURAYA_GELECEK)
+Projeyi yayında görmek için tıklayın: [Günlükcük Canlı Site](https://17busra.github.io/gunlukcuk/)
 
-## 🛠 Teknolojik Yığın
+## 🛠 Neler Kullanıldı?
 * **Sadece HTML5**
-* Semantik (Anlamsal) Etiket Yapısı (`<header>`, `<main>`, `<section>`, `<footer>`)
-* Gelişmiş Form Yapıları (`<input>`, `<select>`, `<textarea>`)
-* Hiyerarşik Veri Tabloları (`<thead>`, `<tbody>`, `colspan`)
+* Semantik (anlamsal) etiketler (`<header>`, `<main>`, `<section>`, `<footer>`)
+* Çeşitli form elemanları (`<input>`, `<select>`, `<textarea>`)
+* Veri tabloları (`<table>`, `<tr>`, `<td>`)
 
-## 📂 Sayfa Yapısı ve Özellikler
-Proje, bir kullanıcının web uygulamasındaki tüm temel yolculuğunu kapsar:
-- **Ana Sayfa (index.html):** Proje vizyonu ve özellik tanıtımı.
-- **Kayıt ve Giriş Formları:** Gelişmiş input türleri ve validasyonlar (required).
-- **Kullanıcı Paneli (panel.html):** Profil istatistikleri ve hızlı işlemler özeti.
-- **Yeni Günlük Ekleme (yeni-yazi.html):** Kategori, ruh hali (radio) ve içerik (textarea) barındıran veri giriş ekranı.
-- **Geçmiş Günlükler (gecmis.html):** Yazılan anıların detaylı veri tablolarıyla listelenmesi.
-- **Proje Künyesi (hakkimda.html):** Geliştirici bilgileri ve teknik döküm.
+## 📂 Sayfalar
+* **Ana Sayfa:** Proje tanıtımı
+* **Kayıt ve Giriş:** Kullanıcı başvuru formları
+* **Panel:** Profil özeti ve istatistikler
+* **Günlük Gir:** Yeni yazı yazma ve kategori seçme formu
+* **Geçmiş Günlüklerim:** Eski anıların tablo halinde listelenmesi
+* **Hakkımda:** Proje detayları ve geliştirici bilgileri
 
 ## 💡 Geliştirici Notu
-> "Benim için bu çalışmanın en gurur verici yanı, projedeki tüm HTML kodlarını hiçbir yapay zeka (AI) kod üretim aracı kullanmadan, tamamen kendi emeğimle satır satır yazmış olmamdır. Projenin mimari planlaması ve içerik fikirleri için AI tabanlı bir mentordan destek alsam da; iş kodlamaya, formları bağlamaya ve semantik yapıyı kurmaya geldiğinde hiçbir hazır kod bloğu kullanmadım. Amacım, bir arayüzün mantığını kendi ellerimle kurarak öğrenmekti."
+> "Bu projenin fikir, tasarım ve planlama aşamasında bir AI mentordan destek aldım. Ancak tüm HTML kodlarını, etiketleri ve sayfalar arası bağlantıları hiçbir yapay zeka kod aracı kullanmadan, tamamen kendi ellerimle yazdım."
 
 ## 👨‍💻 Geliştirici
 **Büşra Genç**
 * LinkedIn: [Profilim](https://www.linkedin.com/in/büşra-genç-b47777299/)
 * GitHub: [@17busra](https://github.com/17busra)
-
----
-*Bu proje BTK Akademi HTML Başlangıç eğitimi pratikleri kapsamında geliştirilmiştir.*
